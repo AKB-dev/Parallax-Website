@@ -5,3 +5,19 @@
   color: #fff;
   font-family: "Poppins", sans-serif;
 }
+
+.container {
+  height: 100vh;
+}
+
+.container img{
+  width: 100%;
+  position: absolute;
+  height: 100vh;
+  object-fit: cover;
+  z-index: -1;
+}
+
+.main-title{
+  position: absolute; 
+}
